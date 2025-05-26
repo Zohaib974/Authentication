@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AuthenticationInCore/.vs/AuthenticationInCore
+/AuthenticationInCore/CookieAuth/bin/Debug/net8.0
+/AuthenticationInCore/CookieAuth/obj/Debug/net8.0
+/AuthenticationInCore/CookieAuth/obj/CookieAuth.csproj.nuget.dgspec.json
+/AuthenticationInCore/CookieAuth/obj/CookieAuth.csproj.nuget.g.props
+/AuthenticationInCore/CookieAuth/obj/CookieAuth.csproj.nuget.g.targets
+/AuthenticationInCore/CookieAuth/obj/JWTAuth.csproj.nuget.dgspec.json
+/AuthenticationInCore/CookieAuth/obj/JWTAuth.csproj.nuget.g.props
+/AuthenticationInCore/CookieAuth/obj/JWTAuth.csproj.nuget.g.targets
+/AuthenticationInCore/CookieAuth/obj/project.assets.json
+/AuthenticationInCore/CookieAuth/obj/project.nuget.cache
+/.vs/Authentication/FileContentIndex
+/.vs/Authentication/FileContentIndex/5a17dd0f-bbb3-41b5-8d96-fe04cd565854.vsidx
+/.vs/Authentication/FileContentIndex/f2677837-896f-49ba-88d7-a04ebb585603.vsidx
+/.vs/Authentication/v17
+/.vs/Authentication/v17/.wsuo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
